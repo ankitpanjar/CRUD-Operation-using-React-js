@@ -1,0 +1,22 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "name": "Ankit",
+      "salary": 28000,
+      "company": "Tcs"
+    },
+    {
+      "name": "Gourav",
+      "salary": "35000",
+      "company": "Suchiisoft",
+      "id": 2
+    },
+    {
+      "name": "kavita ",
+      "salary": "4000",
+      "company": "tgh",
+      "id": 3
+    }
+  ]
+}
